@@ -1,0 +1,35 @@
+ 1- Que es un objeto?
+
+ Un objeto es una colección de datos relacionados y/o funcionalidad
+
+
+2-  Que es una clase?A que se llama metodo constructor?
+
+Una Clase es una instancia que compone al objeto, que generalmente consta de algunas variables y funciones, 
+se denominan propiedades y métodos cuando están dentro de objetos.
+
+El constructor de una clase es una función especial que permite crear un objeto a partir de 
+los parámetros que se le pase
+
+3- Que son los modificadores de acceso?
+
+Los modificadores de acceso son una palabra reservada del lenguaje y se colocan delante de la propiedad o método,
+mediante la cual se garantiza que los datos de una clase solo son modificados por las operaciones apropiadas implementadas 
+en los métodos de sus clases para preservar su invariante
+
+4- Que diferencia hay entre uno privado y uno protegido?
+
+El modificador private es el más restrictivo de todos, básicamente cualquier elemento de una clase que sea privado puede ser accedido únicamente por la misma clase por nada más.
+El modificador de acceso protected nos permite acceso a los componentes con dicho modificador desde la misma clase, clases del mismo paquete y clases que hereden de ella.
+
+5- Cuando se usa el this?
+
+Hace referencia al objeto al que pertenece, obteniendo su valor en el momento en el que una función es invocada.
+
+6- Cuando se usa el super?
+
+Cuando se hereda de una clase padre
+
+7- A que se llama sub-clase, o clase hija?
+
+A las clases que heredan variables y funciones de las clases padres.
